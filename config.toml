@@ -12,7 +12,7 @@ googleAnalytics = "UA-123-45"
 #disqusShortname = ""
 
 [params]
-	subtitle = "千里之行始于足下"
+	subtitle = "千里之行, 始于足下"
 	# Number of posts to show in recent posts list.
 	recentPostsCount = 50
 	# Content types which are excluded from recent posts and archive page.
