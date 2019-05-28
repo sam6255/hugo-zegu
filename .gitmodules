@@ -4,3 +4,9 @@
 [submodule "sam6255.github.io"]
 	path = sam6255.github.io
 	url = https://github.com/sam6255/sam6255.github.io.git
+[submodule "m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "ezhil"]
+	path = themes/ezhil
+	url = https://github.com/vividvilla/ezhil.git
